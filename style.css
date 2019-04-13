@@ -1,0 +1,42 @@
+body{
+    margin: 150px 200px;
+    background: #3B5998;
+}
+
+span{
+    color: lightgrey;
+}
+
+#bold{
+    font-weight:bold;
+    color: white;
+}
+
+.name{
+    color:white;
+    margin-bottom: 10px;
+}
+
+.paragraph{
+    color: white;
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+h3{
+    font-weight: normal;
+}
+
+a{
+    color: grey;
+}
+
+img{
+    border-radius: 50%;
+    float: left;
+    padding-right: 50px;
+}
